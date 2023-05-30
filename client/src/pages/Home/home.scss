@@ -1,0 +1,29 @@
+h1{
+    color: #62DC93;
+    font-family: 'Shojumaru', cursive;
+    font-size: 400;
+}
+@media screen and (min-width: 1200px) {
+    .container {
+      margin: 1em 2em;
+    }
+    h1{
+
+    }
+  }
+  @media screen and (min-width: 800px) {
+    .container {
+      margin: 1em 2em;
+    }
+    h1{
+        salam men kenan
+    }
+  }
+  @media screen and (min-width: 400px) {
+    .container {
+      margin: 1em 2em;
+    }
+    h1{
+        
+    }
+  }
